@@ -21,6 +21,7 @@
 
 ## 比較
 
+
 | 教師あり | 教師なし | 強化学習 |
 |:---:| :---: | :---: | :---: |
 |学習データ| 入力とそれにする出力の組 | 入力のみ | 入力と出力に対する評価（報酬） |
@@ -29,6 +30,7 @@
 
 ## 機械学習モデルの関係について、下図に示す。
 ![機械学習モデルの関係](1_Xf23cuffXwWbTzetaFiC8w.png)
+
 
 by https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f
 
